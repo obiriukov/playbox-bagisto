@@ -140,7 +140,7 @@
                         billing: {
                             address1: [''],
 
-                            use_for_shipping: true,
+                            use_for_shipping: false,
                         },
 
                         shipping: {
